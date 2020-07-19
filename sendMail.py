@@ -11,10 +11,10 @@ import datetime
 
 
 
-mailto_list=["yckj_jxg@163.com"] #邮件通知（默认支持163邮箱，需要开通smtp,pop服务）
+mailto_list=["yckj_jx@163.com"] #邮件通知（默认支持163邮箱，需要开通smtp,pop服务）
 mail_host="smtp.163.com"  #设置服务器
-mail_user="yckj_jxg@163.com"    #用户名
-mail_pass="yckj123456"   #口令
+mail_user="yckj_jx@163.com"    #用户名
+mail_pass="yckj1234"   #口令
 mail_postfix="163.com"  #发件箱的后缀
 
 
